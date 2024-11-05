@@ -3,9 +3,9 @@ Tugas 2 _Information Retrieval_
 
 Dataset ini memuat informasi mengenai putusan pengadilan yang diambil oleh Pengadilan Negeri Rantau Prapat terkait kasus narkotika dan psikotropika. Dataset ini terdiri dari 50 putusan pengadilan, dengan rincian sebagai berikut:
 
-25 putusan dari tahun 2024
-20 putusan dari tahun 2023
-5 putusan dari tahun 2022
+- 25 putusan dari tahun 2024
+-  20 putusan dari tahun 2023
+-  5 putusan dari tahun 2022
 
 
 
