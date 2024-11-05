@@ -23,3 +23,5 @@ Dataset ini terdiri dari beberapa kolom utama, antara lain:
 ![image](https://github.com/user-attachments/assets/39d206c5-b73b-4ff7-a998-b4469eb79377)
 
 
+Muhammad Habibulloh/202110370311259
+Rizky Sulaiman/202110370311257
