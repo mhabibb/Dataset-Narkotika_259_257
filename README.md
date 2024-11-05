@@ -24,7 +24,4 @@ Dataset ini terdiri dari beberapa kolom utama, antara lain:
 
 
 Anggota Kelompok:
-
-Muhammad Habibulloh/202110370311259
-
-Rizky Sulaiman/202110370311257
+Muhammad Habibulloh/202110370311259 dan Rizky Sulaiman/202110370311257
