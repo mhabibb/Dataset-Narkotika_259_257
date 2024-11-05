@@ -12,5 +12,6 @@ Pemilihan dataset putusan pengadilan PN Rantau Prapat dari 3 tahun (2022-2024) m
 mulai dari analisis tren dan pola, peningkatan kontekstualitas data, evaluasi sistem, hingga pengembangan aplikasi yang lebih komprehensif.
 
 **Struktur Data:**
+
 Setiap baris data mewakili satu putusan pengadilan. Setiap putusan memiliki informasi seperti nomor putusan, lembaga peradilan (PN Rantau Prapat), 
 barang bukti yang disita, serta amar atau diktum putusan pengadilan.
