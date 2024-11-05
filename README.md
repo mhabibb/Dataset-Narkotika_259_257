@@ -14,4 +14,5 @@ Dataset ini terdiri dari beberapa kolom utama, antara lain:
 
 ****Contoh Data:****
 
-![image](https://github.com/user-attachments/assets/75eea2c5-f035-49f7-80ed-cc09f3286f28)
+![image](https://github.com/user-attachments/assets/afff9327-291d-4940-9483-695ea956ca3f)
+
