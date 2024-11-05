@@ -9,6 +9,7 @@ Dataset ini memuat informasi mengenai putusan pengadilan yang diambil oleh Penga
 
 
 
+
 ****Struktur Data:****
 
 Setiap baris data mewakili satu putusan pengadilan. Setiap putusan memiliki informasi seperti nomor putusan, lembaga peradilan (PN Rantau Prapat), 
