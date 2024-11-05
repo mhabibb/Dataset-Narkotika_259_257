@@ -1,2 +1,2 @@
 # Dataset-Narkotika_259_257
-Information Retrieval
+Tugas 2 _Information Retrieval_
