@@ -10,16 +10,6 @@ Setiap baris data mewakili satu putusan pengadilan. Setiap putusan memiliki info
 barang bukti yang disita, serta amar putusan pengadilan.
 
 Dataset ini terdiri dari beberapa kolom utama, antara lain:
+![image](https://github.com/user-attachments/assets/6c1df937-ec53-4f05-b53f-d3bf75b61560)
 
-**No**: Merupakan nomor urut setiap data dalam dataset ini.
-
-**No Putusan**: Nomor putusan pengadilan yang menunjukkan identifikasi unik dari setiap kasus yang diputuskan, 
-termasuk informasi tahun putusan dan inisial lokasi pengadilan (PN Rantau Prapat).
-
-**Lembaga Peradila**n: Nama pengadilan yang menangani kasus, yaitu PN RANTAU PRAPAT.
-
-**Barang Bukti**: Informasi mengenai barang bukti yang ditemukan dalam kasus tersebut. Setiap entri berisi deskripsi barang bukti, yang umumnya melibatkan 
-jumlah dan jenis barang bukti seperti narkotika jenis sabu, plastik klip atau barang lainnya yang mengindikasikan kepemilikan atau perdagangan narkotika.
-**Amar Putusan**: Berisi ringkasan keputusan pengadilan atas terdakwa dalam kasus tersebut. Amar putusan ini mencakup pernyataan pengadilan mengenai apakah 
-terdakwa terbukti bersalah atau tidak.
 
